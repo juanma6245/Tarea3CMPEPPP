@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author juanm
- *
- */
-module miHexagonal {
-}
